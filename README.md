@@ -1,3 +1,6 @@
+Travis, don't do it man!
+====
+
 [![Fine Uploader](http://fineuploader.com/img/FineUploader_logo.png)](http://fineuploader.com/)
 
 **Development Branch:** 3.7.0 (Planned Release For Early July)
